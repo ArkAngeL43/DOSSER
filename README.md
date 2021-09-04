@@ -1,2 +1,2 @@
-# DOSSER
+# Exerxes
 a dos in C
